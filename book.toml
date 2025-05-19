@@ -3,6 +3,9 @@ language = "uk"
 multilingual = false
 src = "docs"
 
+[output.html]
+site-url = "/db-labs-mdbook/"
+
 # Замініть авторство проєкта на своє
 authors = ["Sofia Kulichenko", "Yevheniy Onischenko", "Ivan Braslavets", "Nazar Komaretskyi", "Vadim Malish", "Mykyta Panov", "Pavlo Rogatkin"]
 
