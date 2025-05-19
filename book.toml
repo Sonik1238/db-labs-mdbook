@@ -3,7 +3,7 @@ language = "uk"
 multilingual = false
 src = "docs"
 
-[output.html]
+[index.html]
 site-url = "/db-labs-mdbook/"
 
 # Замініть авторство проєкта на своє
