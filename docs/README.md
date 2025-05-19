@@ -1,5 +1,7 @@
 # Виконали
 
+OWFAKJ'WEGOPJ'\QEGOA\[E0JKAGP
+
 *студентка 2-го курсу, групи ІО-32* **Софія Куліченко**  Telegram: [@SonikLvl](https://t.me/SonikLvl)  
 
 *студент 2-го курсу, групи ІО-32* **Євгеній Оніщенко**  Telegram: [@yevgenk0](https://t.me/yevgenk0)
